@@ -9,4 +9,12 @@ Needed I/O so far:
 - USB (type c) to program/access internal memory
 - ethernet
 - gpio pins
+- camera access
+- two usb ports to add periphals (keyboard, mouse)
+
+Needed sensors:
+- camera
+- gps?
+- accelerometer/gyroscope
+- compass
 
