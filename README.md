@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=XLOCQw5s9Uw
 
 ## 3rd party software
 - [KiCAD](http://kicad-pcb.org/)
+- [SnapEDA](https://www.snapeda.com)
