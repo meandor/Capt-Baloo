@@ -4,3 +4,6 @@ An autonomous flying platform that can be send to the stratosphere and flies bac
 
 ## Motivation
 https://www.youtube.com/watch?v=XLOCQw5s9Uw
+
+## 3rd party software
+- [KiCAD](http://kicad-pcb.org/)
